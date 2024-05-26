@@ -7,7 +7,7 @@ body {
 	width: 250px;
 	margin-top: 20px;
 	margin-left: 10px;
-	background-color: #2bd128;
+	background-color: #4f4f4f;
 }
 
 .twitter {
@@ -15,7 +15,7 @@ body {
 	width: 250px;
 	margin-top: 20px;
 	margin-left: 10px;
-	background-color: #26ff00;
+	background-color: #4f4f4f;
 }
 
 .twitch {
@@ -23,7 +23,7 @@ body {
 	width: 250px;
 	margin-top: 20px;
 	margin-left: 10px;
-	background-color: #15ff00;
+	background-color: #4f4f4f;
 }
 
 .reddit {
@@ -31,7 +31,7 @@ body {
 	width: 250px;
 	margin-top: -790px;
 	margin-left: 275px;
-	background-color: #2bff00;
+	background-color: #4f4f4f;
 }
 
 .gmail {
@@ -39,7 +39,7 @@ body {
 	width: 250px;
 	margin-top: 20px;
 	margin-left: 275px;
-	background-color: #1eff00;
+	background-color: #4f4f4f;
 }
 
 .whatsapp {
@@ -47,7 +47,7 @@ body {
 	width: 250px;
 	margin-top: 20px;
 	margin-left: 275px;
-	background-color: #28e050;
+	background-color: #4f4f4f;
 }
 
 .amazon {
@@ -55,7 +55,7 @@ body {
 	width: 250px;
 	margin-top: -790px;
 	margin-left: 540px;
-	background-color: #ebebeb;
+	background-color: #4f4f4f;
 }
 
 .netflix {
@@ -63,7 +63,7 @@ body {
 	width: 250px;
 	margin-top: 20px;
 	margin-left: 540px;
-	background-color: #ff0000;
+	background-color: #4f4f4f;
 }
 
 .trading {
@@ -71,7 +71,7 @@ body {
 	width: 250px;
 	margin-top: 20px;
 	margin-left: 540px;
-	background-color: #6828e0;
+	background-color: #4f4f4f;
 }
 
 .amazona {
@@ -79,7 +79,7 @@ body {
 	width: 250px;
 	margin-top: -790px;
 	margin-left: 805px;
-	background-color: #ebebeb;
+	background-color: #4f4f4f;
 }
 
 .netflixia {
@@ -87,7 +87,7 @@ body {
 	width: 250px;
 	margin-top: 20px;
 	margin-left: 805px;
-	background-color: #ff0000;
+	background-color: #4f4f4f;
 }
 
 .pornhub {
@@ -95,5 +95,74 @@ body {
 	width: 250px;
 	margin-top: 20px;
 	margin-left: 805px;
-	background-color: #ff7300;
+	background-color: #4f4f4f;
+}
+.amazoniana {
+	height: 250px;
+	width: 250px;
+	margin-top: -790px;
+	margin-left: 1070px;
+	background-color: #505050;
+}
+
+.netflixiana {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 1070px;
+	background-color: #4f4f4f;
+}
+
+.pornhubiana {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 1070px;
+	background-color: #505050;
+}
+.amazonianaa {
+	height: 250px;
+	width: 250px;
+	margin-top: -790px;
+	margin-left: 1335px;
+	background-color: #505050;
+}
+
+.netflixianaa {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 1335px;
+	background-color: #4f4f4f;
+}
+
+.pornhubianaa {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 1335px;
+	background-color: #505050;
+}
+.amazonianaaa {
+	height: 250px;
+	width: 250px;
+	margin-top: -790px;
+	margin-left: 1600px;
+	background-color: #505050;
+}
+
+.netflixianaaa {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 1600px;
+	background-color: #4f4f4f;
+}
+
+.pornhubianaaa {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 1600px;
+	background-color: #505050;
 }
