@@ -1,0 +1,99 @@
+body {
+	background-color: #0f0f0f;
+}
+
+.youtube {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 10px;
+	background-color: #2bd128;
+}
+
+.twitter {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 10px;
+	background-color: #26ff00;
+}
+
+.twitch {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 10px;
+	background-color: #15ff00;
+}
+
+.reddit {
+	height: 250px;
+	width: 250px;
+	margin-top: -790px;
+	margin-left: 275px;
+	background-color: #2bff00;
+}
+
+.gmail {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 275px;
+	background-color: #1eff00;
+}
+
+.whatsapp {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 275px;
+	background-color: #28e050;
+}
+
+.amazon {
+	height: 250px;
+	width: 250px;
+	margin-top: -790px;
+	margin-left: 540px;
+	background-color: #ebebeb;
+}
+
+.netflix {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 540px;
+	background-color: #ff0000;
+}
+
+.trading {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 540px;
+	background-color: #6828e0;
+}
+
+.amazona {
+	height: 250px;
+	width: 250px;
+	margin-top: -790px;
+	margin-left: 805px;
+	background-color: #ebebeb;
+}
+
+.netflixia {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 805px;
+	background-color: #ff0000;
+}
+
+.pornhub {
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 805px;
+	background-color: #ff7300;
+}
